@@ -201,6 +201,7 @@ def main(page: ft.Page):
    
 ft.app(target=main)
 ```
+
 A continuacion se visualiza el resultado de todo el codigo:
 
 
